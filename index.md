@@ -1,8 +1,12 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Virginia Barnes
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Year: 2021
+Major(s): CS/ITWS
+Hometown: Tewksbury, MA
+I love volleyball, halal shack, and my dog
+
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
