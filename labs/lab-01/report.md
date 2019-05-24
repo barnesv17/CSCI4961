@@ -8,4 +8,4 @@
 ##### 13. Screenshot of man tree:
 ###### TO ADD LATER
 ##### 15. 7 of the Practice Problems
-<img src="15_1.jpg" width = "200" height = "150">
+###### Problem 1: <img src="15_1.jpg"/>
