@@ -8,10 +8,10 @@
 ##### 13. Screenshot of man tree:
 ###### TO ADD LATER
 ##### 15. 7 of the Practice Problems
-###### Problem 1: <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_1.jpg" width = "400" height = "250">
-###### Problem 2: <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_2.jpg" width = "400" height = "250">
-###### Problem 3: <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_3.jpg" width = "400" height = "250">
-###### Problem 4: <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_4.jpg" width = "400" height = "250">
-###### Problem 5: <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_5.jpg" width = "400" height = "250">
-###### Problem 6: <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_6.jpg" width = "400" height = "250">
-###### Problem 7: <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_7.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 1: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_1.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 2: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_2.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 3: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_3.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 4: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_4.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 5: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_5.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 6: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_6.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 7: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_7.jpg" width = "400" height = "250">
