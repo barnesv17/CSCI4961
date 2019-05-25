@@ -6,7 +6,7 @@
 ###### Major(s): CS/ITWS
 ###### Hometown: Tewksbury, MA
 ###### I love volleyball, halal shack, and my dog
-###### Photo of Virginia Barnes: <img src="LawnPic.jpg" width = "150" height = "200">
+###### Photo of Virginia Barnes: <img src="LawnPic.jpg" width = "120" height = "200">
 
 
 ## Lab Reports
