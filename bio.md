@@ -5,7 +5,7 @@
 ###### Year: 2021
 ###### Major(s): CS/ITWS
 ###### Hometown: Tewksbury, MA
-###### I love volleyball, halal shack, and my dog
+###### Mattermost Handle: n/a
 ###### Photo of Virginia Barnes: <img src="LawnPic.jpg" width = "120" height = "200">
 
 
