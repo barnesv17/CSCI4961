@@ -8,26 +8,26 @@
 ##### 13. Screenshot of man tree:
 ###### TO ADD LATER
 ##### 15. 7 of the Practice Problems:
-###### &nbsp;&nbsp; Problem 1: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_1.jpg" width = "400" height = "250">
-###### &nbsp;&nbsp; Problem 2: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_2.jpg" width = "400" height = "250">
-###### &nbsp;&nbsp; Problem 3: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_3.jpg" width = "400" height = "250">
-###### &nbsp;&nbsp; Problem 4: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_4.jpg" width = "400" height = "250">
-###### &nbsp;&nbsp; Problem 5: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_5.jpg" width = "400" height = "250">
-###### &nbsp;&nbsp; Problem 6: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_6.jpg" width = "400" height = "250">
-###### &nbsp;&nbsp; Problem 7: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/15_7.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 1: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/15_1.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 2: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/15_2.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 3: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/15_3.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 4: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/15_4.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 5: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/15_5.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 6: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/15_6.jpg" width = "400" height = "250">
+###### &nbsp;&nbsp; Problem 7: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/15_7.jpg" width = "400" height = "250">
 ##### 16. Four problems of regex crosswords on Beginner level:
-###### &nbsp;&nbsp; Problem 1: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/16_1.jpg" width = "500" height = "250">
-###### &nbsp;&nbsp; Problem 2: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/16_2.jpg" width = "500" height = "250">
-###### &nbsp;&nbsp; Problem 3: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/16_3.jpg" width = "500" height = "250">
-###### &nbsp;&nbsp; Problem 4: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/16_4.jpg" width = "500" height = "250">
+###### &nbsp;&nbsp; Problem 1: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/16_1.jpg" width = "500" height = "250">
+###### &nbsp;&nbsp; Problem 2: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/16_2.jpg" width = "500" height = "250">
+###### &nbsp;&nbsp; Problem 3: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/16_3.jpg" width = "500" height = "250">
+###### &nbsp;&nbsp; Problem 4: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/16_4.jpg" width = "500" height = "250">
 ##### 20. Screenshots of accomplishments using blocky:
-###### &nbsp;&nbsp; Problem 1: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_1.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 2: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_2.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 3: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_3.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 4: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_4.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 5: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_5.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 6: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_6.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 7: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_7.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 8: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_8.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 9: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_9.jpg" width="500" height="250">
-###### &nbsp;&nbsp; Problem 10: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/oss-repo-template/blob/master/20_10.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 1: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_1.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 2: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_2.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 3: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_3.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 4: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_4.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 5: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_5.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 6: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_6.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 7: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_7.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 8: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_8.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 9: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_9.jpg" width="500" height="250">
+###### &nbsp;&nbsp; Problem 10: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_10.jpg" width="500" height="250">
