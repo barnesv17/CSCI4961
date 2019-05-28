@@ -5,7 +5,7 @@
 ###### Year: 2021
 ###### Major(s): CS/ITWS
 ###### Hometown: Tewksbury, MA
-###### Mattermost Handle: n/a
+###### Mattermost Handle: @barnev
 ###### Photo of Virginia Barnes: <img src="LawnPic.jpg" width = "120" height = "200">
 
 
