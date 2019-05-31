@@ -31,3 +31,5 @@
 ###### &nbsp;&nbsp; Problem 8: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_8.jpg" width="500" height="250">
 ###### &nbsp;&nbsp; Problem 9: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_9.jpg" width="500" height="250">
 ###### &nbsp;&nbsp; Problem 10: <br /> &nbsp;&nbsp; <img src="https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-01/images/20_10.jpg" width="500" height="250">
+##### 19. Reflection
+###### I have used Audacity for a previous course at RPI. It was not the most intuitive or aesthetic design. I found myself constantly becoming frustrated with how the tools work and how the page is organized. Fixing these issues could be one possible project. 
