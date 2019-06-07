@@ -12,3 +12,5 @@
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/LatestCommit.png)
 * the current branches = 1 branch (master)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/NumberOfBranches.png)
+##### Gitstats for BeyondTheGrave
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/GitStatsBeyondTheGrave.png)
