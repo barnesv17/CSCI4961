@@ -17,3 +17,5 @@
 ##### Gitstats provides the exact time commits were made.
 ##### The total lines of code is drastically different. The total I found was 31,594. The total gitstats found was 82,411.
 ##### I found there was only one contributor. Gitstats found there are two authors - Alex Francoletti and AlexanderFrancoletti, who I assume are the same person.
+##### 3. Streaming Video of the activity in BeyondTheGrave
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/BeyondTheGraveVideo.png)
