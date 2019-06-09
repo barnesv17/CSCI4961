@@ -1,6 +1,6 @@
 ## Part 1 - Documentation
-##### Check wiki page
-##### Use latex to display a Hadamard Matrix of size 4:
+##### 1. Check wiki page
+##### 3. Use latex to display a Hadamard Matrix of size 4:
 ## Part 2 - Community
 ##### 3. Look up by hand and record for BeyondTheGrave
 * the number of contributors = 1
