@@ -2,7 +2,8 @@
 ##### 1. Check wiki page
 ##### 2. Use latex to generate the formulae depicted in the link
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/Latex%20Exercise.png)
-##### 3. Use latex to display a Hadamard Matrix of size 4:
+##### 3. Use latex to display a Hadamard Matrix of size 4
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/Latex%20Exercise%202.png)
 ## Part 2 - Community
 ##### 3. Look up by hand and record for BeyondTheGrave
 * the number of contributors = 1
