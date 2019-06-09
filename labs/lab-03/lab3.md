@@ -1,6 +1,7 @@
-## Part 0 - Documentation
+## Part 1 - Documentation
 ##### Check wiki page
-## Part 1 - Community
+##### Use latex to display a Hadamard Matrix of size 4:
+## Part 2 - Community
 ##### 3. Look up by hand and record for BeyondTheGrave
 * the number of contributors = 1
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/NumberOfContributors.png)
