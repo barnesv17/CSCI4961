@@ -1,5 +1,5 @@
 ## Part 1 - Documentation
-##### 1. Check wiki page
+##### 1. Check wiki page: https://github.com/barnesv17/CSCI4961/wiki
 ##### 2. Use latex to generate the formulae depicted in the link
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-03/images/Latex%20Exercise.png)
 ##### 3. Use latex to display a Hadamard Matrix of size 4
