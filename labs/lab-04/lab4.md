@@ -19,4 +19,4 @@
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our group chose the GNU General Public License license
 * Document this project with a README file describing the project, what the business model is, the license you would choose and why.
 * Create a repository for the project on github and select the license you decided on. Make all of your table collaborators. Link to the repository
-###### https://github.com/barnesv17/Lab04-Licensing
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/barnesv17/Lab04-Licensing
