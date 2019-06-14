@@ -16,6 +16,6 @@
 ###### Linux was first released by Linus Torvalds. Linus' parents were campus radicals and Linus belonged to the Swedish-speaking minority of Finland. Therefore, you can see an early influence of activism and conscientious objection to proprietary establishments early on in his life. Futhermore, Linus was heavily influenced by Richard Stallman, a significant free software movement activist. Therefore, it is clear why Linus Torvald would choose the GPL v2 license.
 ##### 7. As a table, make up an open source project and a business model that you could use to make money from it.
 * Pick a license that fits your business model using the LICENSE chooser by Github.
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our group chose the ________ license
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our group chose the GNU General Public License license
 * Document this project with a README file describing the project, what the business model is, the license you would choose and why.
-* Create a repository for the project on github and select the license you decided on. Make all of your table collaborators. Link to the repository: __________
+* Create a repository for the project on github and select the license you decided on. Make all of your table collaborators. Link to the repository: https://github.com/barnesv17/Lab04-Licensing
