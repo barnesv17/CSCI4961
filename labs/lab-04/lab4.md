@@ -20,3 +20,11 @@
 * Document this project with a README file describing the project, what the business model is, the license you would choose and why.
 * Create a repository for the project on github and select the license you decided on. Make all of your table collaborators. Link to the repository
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/barnesv17/Lab04-Licensing
+##### 8. Take 5 projects from Observatory or past RCOS Projects and create a table for which project has which license.
+| Website                                                       | License Present | License   |
+| --------------------------------------------------------------|:---------------:| ---------:|
+| https://github.com/saprap1/auto-calendar                      | Yes             | MIT       |
+| https://github.com/huimingcheng/autograding                   | Yes             | MIT       |
+| https://github.com/automaticdoorcontrol/automaticdoorcontrol  | Yes             | MIT       |
+| https://github.com/tiecoon/b7                                 | Yes             | Copyright |
+| https://github.com/meowskers/beirrun                          | Yes             | MIT       |
