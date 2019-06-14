@@ -1,9 +1,10 @@
-##### 1. Give a Creative Commons license to your lab report: https://github.com/barnesv17/CSCI4961/blob/master/LICENSE
+##### 1. Give a Creative Commons license to your lab report
+###### https://github.com/barnesv17/CSCI4961/blob/master/LICENSE
 ##### 2. Read the four criteria for Free Software
-###### - The freedom to run the program as you wish, for any purpose
-###### - The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
-###### - The freedom to redistribute copies so you can help others.
-###### - The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+###### 0. The freedom to run the program as you wish, for any purpose
+###### 1. The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
+###### 2. The freedom to redistribute copies so you can help others.
+###### 3. The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 ##### 3. Why is it important to choose a LICENSE?
 ###### Choosing a license provides clear communication between the developers and users. This clear communication ensures protection. Without a license, open source code can easily fall under default copyright laws. This means that the developer has rights to all source code and noone else can reproduce, distribute, or add to it. This ultimately defeats the purpose of "Open Source Software."
 ##### 4. Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?
