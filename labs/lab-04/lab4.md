@@ -1,5 +1,5 @@
 ##### 1. Give a Creative Commons license to your lab report
-###### https://github.com/barnesv17/CSCI4961/blob/master/LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution 2.0 Generic License</a>.
 ##### 2. Read the four criteria for Free Software
 ###### 0. The freedom to run the program as you wish, for any purpose
 ###### 1. The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
