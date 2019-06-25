@@ -10,6 +10,7 @@ Step 1:
 
 
 `CMakeLists.txt`
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/images/CMakeLists.txt%20Step1.png)
 
 
 `Screenshot of 10 and 4294967296`
