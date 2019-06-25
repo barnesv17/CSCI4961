@@ -6,61 +6,61 @@
 
 ## Steps
 Step 1:
-`tutorial.cxx`
+`tutorial.cxx`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%201%20tutorial.cxx.png)
 
 
-`CMakeLists.txt`
+`CMakeLists.txt`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%201%20CMakeLists.png)
 
 
-`Screenshot of 10 and 4294967296`
+`Screenshot of 10 and 4294967296`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%201%20Results.png)
 
 Step 2:
-`tutorial.cxx`
+`tutorial.cxx`     
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%202%20tutorial.cxx.png)
 
-`CMakeLists.txt`
+`CMakeLists.txt`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%202%20CMakeLists.png)
 
-`Screenshot of 10 and 4294967296`
+`Screenshot of 10 and 4294967296`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%202%20Results.png)
 
 Step 3:
 
-`CMakeLists.txt`
+`CMakeLists.txt`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%203%20CMakeLists.png)
 
 `MathFunctions/CMakeLists.txt`
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%203%20MathFunctions%20CMakeLists.png)
 
-`Screenshot of 10 and 4294967296`
+`Screenshot of 10 and 4294967296`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%203%20Results.png)
 
 Step 4:
 
-`CMakeLists.txt`
+`CMakeLists.txt`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%204%20CMakeLists.png)
 
-`MathFunctions/CMakeLists.txt`
+`MathFunctions/CMakeLists.txt`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%204%20MathFunctions%20CMakeLists.png)
 
-`Screenshot running ctest -W`
+`Screenshot running ctest -W`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%204%20ctest%20-W.png)
 
-`Screenshot running ctest -N`
+`Screenshot running ctest -N`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%204%20ctest%20-N.png)
 
 Step 5:
 
-`CMakeLists.txt`
+`CMakeLists.txt`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%205%20CMakeLists.png)
 
-`MathFunctions/CMakeLists.txt`
-![alt text]https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%205%20MathFunctions%20CMakeList.png)
+`MathFunctions/CMakeLists.txt`    
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%205%20MathFunctions%20CMakeList.png)
 
-`Screenshot of 10 and 4294967296`
+`Screenshot of 10 and 4294967296`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%205%20Results.png)
 
 Makefile:
