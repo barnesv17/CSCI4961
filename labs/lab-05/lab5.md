@@ -4,7 +4,7 @@
 2. Gain familiarity with shared and static libraries and how to build them
 3. Get practice creating projects using `make` and `cmake`
 
-## Steps
+## Part I
 ### Step 1:`tutorial.cxx`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%201%20tutorial.cxx.png)
 
@@ -53,15 +53,17 @@
 ### Step 5:`Screenshot of 10 and 4294967296`    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Step%205%20Results.png)
 
-Makefile:
+## Part II
 
-CMakefile:
+### Makefile:
 
-Makefile created by cmake:
+### CMakefile:
 
-Relative size of two executables
+### Makefile created by cmake:
 
-Results of running my program:
+### Relative size of two executables
+
+### Results of running my program:
 
 
 
