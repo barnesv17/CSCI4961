@@ -51,14 +51,22 @@
 ## Part II
 
 ### Makefile:
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Makefile.png)
 
 ### CMakefile:
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/CMake%20Part%20II.png)
 
 ### Makefile created by cmake:
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/CMake%20Makefile%201.png)
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/CMake%20Makefile%202.png)
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/CMake%20Makefile%203.png)
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/CMake%20Makefile%204.png)
 
-### Relative size of two executables
+### Relative size of two executables:
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/Comparing%20Sizes.png)
 
 ### Results of running my program:
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-05/cropped_images/program%20output.png)
 
 
 
