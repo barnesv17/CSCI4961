@@ -18,7 +18,10 @@ You should see a scary whale!
 # Example02:
 ### RocketChat    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/Example03LISTOFCONTAINERS.png)
+Not working:    
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/Example03LOCALHOST.png)
+Working:    
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/Example02RocketChatWorks.png)
 
 # Example03:
 ### Python Hello World Server with a Dockerfile
