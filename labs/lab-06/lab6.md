@@ -25,11 +25,10 @@ Working:
 
 # Example03:
 ### Python Hello World Server with a Dockerfile
-![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/Example03BAD.png)
-I could not get Example03 to work. The error is shown above.
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/Example03%20working%20terminal.png)
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/Example03%20working%20webbrowser%20.png)
 
 # Example04:
 ### Simple Docker Compose
-![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/EXAMPLE4DIDNOTWORK.png)
-I could not get Example04 to work. The error is shown above.
+![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-06/images/Example4%20working.png)
 
