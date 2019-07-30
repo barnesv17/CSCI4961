@@ -1,4 +1,4 @@
-##### Introductory lesson of "Data Visualization with ggplot2 (Part 1)"
+### Introductory lesson of "Data Visualization with ggplot2 (Part 1)"
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/1.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/2.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/3.png)
@@ -9,12 +9,12 @@
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/8.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/9.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/10.png)
-##### Parallel Slopes lesson of "Multiple and Logistic Regression"
+### Parallel Slopes lesson of "Multiple and Logistic Regression"
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/11.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/12.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/13.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/14.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/15.png)
 ![alt text](https://github.com/barnesv17/CSCI4961/blob/master/labs/lab-08/images/16.png)
-##### Pointer to open source project on Observatory
+### Pointer to open source project on Observatory
 https://rcos.io/projects/flomv2/flom/profile
